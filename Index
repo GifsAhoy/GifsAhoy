@@ -1,0 +1,12 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="gifsahoy.com">
+    <title>Redirect Page</title>
+</head>
+<body>
+    <p>This page will automatically redirect to <a href="https://giphy.com/">example.com</a> in 1 seconds.</p>
+</body>
+</html>
